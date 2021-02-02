@@ -1,0 +1,10 @@
+{
+    "name": "xolodeec/hexlet-slim-example",
+    "description": "example",
+    "type": "project",
+    "require": {
+        "slim/slim": "^4.7",
+        "slim/psr7": "^1.3",
+        "slim/http": "^1.2"
+    }
+}
